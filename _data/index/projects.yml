@@ -1,21 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: 武钢智能管道系统
   i18n: jalpc
   gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  repo: 武钢智能管道系统
+  img: /static/assets/img/landing/wugang.png
+  desc: 参与前端开发工作，界面设计，采用jQuery前端框架、Ajax 实现数据传输、调用百度地图API接口实现二维地图导航功能、html5实现离线存储，减轻系统工作量。
 
-- name: LeetCode
+- name: 中石油油田巡检系统
   i18n: leetcode
   gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: FamilyCODE Wchat
-  i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  repo: 中石油油田巡检系统
+  img: /static/assets/img/landing/youtian.png
+  desc: 主导界面设计，采用基本HTML、CSS3技术完成界面开发，在.Net平台上对地理信息系统skyline进行二次开发，采用 MVC框架，前后端开发并存。
