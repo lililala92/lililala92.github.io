@@ -4,7 +4,7 @@ title:  "relative and absolute"
 date:   2017-01-31
 desc: "relative and absolute"
 keywords: "CSS "
-categories: [Html5]
+categories: [Css]
 tags: [CSS,relative,absolute]
 icon: icon-html
 ---
