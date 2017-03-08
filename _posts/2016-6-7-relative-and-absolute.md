@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "relative and absolute"
-date:   2016-6-7
+date:   2016-06-07
 desc: "relative and absolute"
 keywords: "CSS "
 categories: [Css]
