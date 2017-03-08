@@ -8,7 +8,7 @@ categories: [Css]
 tags: [CSS,relative,absolute]
 icon: icon-html
 ---
-#relative的一些特性
+relative的一些特性
 ------
 
 - `top:0 left:0` 都是相对于其自身的定位，且没有拉伸效果
@@ -30,7 +30,7 @@ icon: icon-html
 
      此处div不占空间
 
-#absolute的一些特性
+absolute的一些特性
 ------
 - absolute脱离文档流，absolute和float相斥
 

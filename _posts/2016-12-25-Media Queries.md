@@ -8,7 +8,8 @@ categories: [Css3]
 tags: [CSS3,Media Queries]
 icon: icon-html
 ---
-#Media Queries
+ Media Queries
+----
  Media Queries是CSS3新增加的一个模块功能，其最大的特色就是通过CSS3来查询媒体，然后调用对应的样式。常见的媒体类型引用方法：Link, @import, @media(CSS3新增)
 
 @media被称为媒体查询，在页面中可以通过这个属性来引入媒体类型
