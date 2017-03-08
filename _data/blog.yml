@@ -12,11 +12,11 @@
 - name: HTML5
   href: /html5/
 
-- name: Angularjs
-  href: /angularjs/
+- name: Jquery
+  href: /jquery/
 
-- name: Life
-  href: /life/
+- name: Javascript
+  href: /javacript/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 #- name: Donate
