@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "js设置元素class"
-date:   2016-06-07
+date:   2016-08-09
 desc: "js中设置元素class的三种方法小结"
 keywords: "js"
 categories: [Javascript]
