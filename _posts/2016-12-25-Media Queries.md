@@ -48,7 +48,7 @@ icon: icon-html
 	  body {background-color:#f5f5f5;}
 	}
 
-在智能设备上，例如iPhone、iPad等，还可以根据屏幕设备的尺寸来设置相应的样式（或者调用相应的样式文件）。同样的，对于屏幕设备同样可以使用“min/max”对应参数，如“min-device-width”或者“max-device-width”。这里的“max-device-width”所指的是设备的实际分辨率，也就是指可视面积分辨率。
+在智能设备上，例如iPhone、iPad等，还可以根据屏幕设备的尺寸来设置相应的样式（或者调用相应的样式文件）。同样的，对于屏幕设备同样可以使用“min/max”对应参数，如“min-device-width”或者“max-device-width”。这里的“max-device-width”所指的是设备的实际分辨率，也就是指可视面积分辨率
 
     <link rel=""stylesheet" media="screen and (max-device-width:480px)" href="iphone.css">
       
