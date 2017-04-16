@@ -7,6 +7,7 @@ keywords: "Javascript "
 categories: [Javascript]
 tags: [javascript,prototype,原型模式]
 icon: icon-html
+---
 
 ##原型模式##
   
