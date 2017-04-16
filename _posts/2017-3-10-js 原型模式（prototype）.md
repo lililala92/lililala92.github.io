@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "js 原型模式（prototype）"
-date:   2016-06-07
-desc: ""
+date:   2016-03-10
+desc: "js 原型模式（prototype）"
 keywords: "Javascript "
 categories: [Javascript]
 tags: [javascript,prototype,原型模式]
 icon: icon-html
 ---
-
 ##原型模式##
   
 ###1.理解原型对象###
