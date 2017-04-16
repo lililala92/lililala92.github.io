@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "js 原型模式（prototype）"
-date:   2016-03-10
+date:   2017-03-10
 desc: "js 原型模式（prototype）"
 keywords: "Javascript "
 categories: [Javascript]
