@@ -9,6 +9,9 @@ tags: [Html5,canvas]
 icon: icon-html
 ---
 # 用Canvas制作了一个小时钟 #
+
+
+
    <style type="text/css">
 		#myCanvas{
 			position:absolute;
@@ -18,3 +21,5 @@ icon: icon-html
 		}
   </style>
  <canvas id="myCanvas" height="200px" width="200px"></canvas>
+ <script type="text/javascript" src="https://github.com/lililala92/lililala92.github.io/tree/master/Canvas/Clock/script.js"></script>
+ 
