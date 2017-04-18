@@ -15,7 +15,7 @@
 - name: Css3
   href: /css3/
 
-- name: HTML5
+- name: Html5
   href: /html5/
 # Don't display donation page: change donation to off at file '_config.yml'
 #- name: Donate
