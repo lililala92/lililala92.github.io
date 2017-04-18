@@ -13,10 +13,7 @@ icon: icon-html
 
 
    <style type="text/css">
-		#myCanvas{
-			position:absolute;
-			top:40%;
-			left:40%;			
+		#myCanvas{		
 			border: 1px solid black
 		}
   </style>
