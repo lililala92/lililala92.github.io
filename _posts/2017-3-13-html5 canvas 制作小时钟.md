@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "html5 canvas制作时钟"
@@ -18,5 +17,5 @@ icon: icon-html
 			left:40%;			
 			border: 1px solid black
 		}
-	</style>
+  </style>
  <canvas id="myCanvas" height="200px" width="200px"></canvas>
