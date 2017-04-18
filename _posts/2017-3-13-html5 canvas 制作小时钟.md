@@ -118,4 +118,10 @@ icon: icon-html
     }
     setInterval(Draw,1000);
 </script>
+
+Canvas 的两个方法
+
+**save()	保存当前环境的状态**
+
+**restore()	返回之前保存过的路径状态和属性**
  
