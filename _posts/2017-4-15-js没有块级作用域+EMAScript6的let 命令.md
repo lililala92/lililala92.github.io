@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "js没有块级作用域+EMAScript6的let命令"
-date:   2017-04-05
+date:   2017-04-15
 desc: "js没有块级作用域+EMAScript6的let命令"
 keywords: "javascript "
 categories: [Javascript]
