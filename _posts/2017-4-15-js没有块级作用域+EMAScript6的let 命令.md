@@ -34,7 +34,7 @@ icon: icon-html
     var result=add(10,20);
     alert(sum);
 
- 会出现错误
+ 上面例子会出现错误
 
     function add(a,b){
        sum=num1+num2;
@@ -42,7 +42,8 @@ icon: icon-html
     }
     var result=add(10,20);
     alert(sum);
-成功输出30
+
+上面例子成功输出30
 
 
 # 2.EMAScript6的let命令 #
@@ -52,8 +53,7 @@ ES6新增了let命令，用来声明变量。它的用法类似于var，但是�
 	{
 	  let a = 10;
 	  var b = 1;
-	}
-	
+	}	
 	a // ReferenceError: a is not defined.
 	b // 1
 
