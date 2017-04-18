@@ -18,5 +18,5 @@ icon: icon-html
 		}
   </style>
  <canvas id="myCanvas" height="200px" width="200px"></canvas>
- <script type="text/javascript" src="https://github.com/lililala92/lililala92.github.io/tree/master/Canvas/Clock/script.js"></script>
+ <script type="text/javascript" src="clockscript.js"></script>
  
