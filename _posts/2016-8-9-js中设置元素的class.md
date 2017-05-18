@@ -7,6 +7,7 @@ keywords: "js"
 categories: [Javascript]
 tags: [js,Javascript]
 icon: icon-html
+---
 
 一.el.setAttribute("class","abc")适合IE8以上、Firefox、chrome、Safari、Opera 
 ------
