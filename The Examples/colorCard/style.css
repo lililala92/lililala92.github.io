@@ -1,0 +1,1152 @@
+.swatches {
+  height: 40px;
+  margin: 0; }
+
+.swatches li {
+  width: 4.761904%;
+  height: 40px;
+  float: left;
+  list-style: none outside none; }
+
+.red li:nth-child(12) {
+  background-color: #c71236; }
+  .red li:nth-child(12):hover:before {
+    content: "#c71236";
+    color: #f8adbc;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(13) {
+  background-color: #b21031; }
+  .red li:nth-child(13):hover:before {
+    content: "#b21031";
+    color: #f698ab;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(14) {
+  background-color: #9d0e2b; }
+  .red li:nth-child(14):hover:before {
+    content: "#9d0e2b";
+    color: #f4839a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(15) {
+  background-color: #880c25; }
+  .red li:nth-child(15):hover:before {
+    content: "#880c25";
+    color: #f26e89;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(16) {
+  background-color: #730a1f; }
+  .red li:nth-child(16):hover:before {
+    content: "#730a1f";
+    color: #f05977;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(17) {
+  background-color: #5e091a; }
+  .red li:nth-child(17):hover:before {
+    content: "#5e091a";
+    color: #ee4466;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(18) {
+  background-color: #490714; }
+  .red li:nth-child(18):hover:before {
+    content: "#490714";
+    color: #ec2f55;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(19) {
+  background-color: #34050e; }
+  .red li:nth-child(19):hover:before {
+    content: "#34050e";
+    color: #ea1a44;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(20) {
+  background-color: #1f0308; }
+  .red li:nth-child(20):hover:before {
+    content: "#1f0308";
+    color: #da143b;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(21) {
+  background-color: #0a0103; }
+  .red li:nth-child(21):hover:before {
+    content: "#0a0103";
+    color: #c51236;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(10) {
+  background-color: #ea1d46; }
+  .red li:nth-child(10):hover:before {
+    content: "#ea1d46";
+    color: #36050f;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(9) {
+  background-color: #ec3257; }
+  .red li:nth-child(9):hover:before {
+    content: "#ec3257";
+    color: #4b0714;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(8) {
+  background-color: #ee4768; }
+  .red li:nth-child(8):hover:before {
+    content: "#ee4768";
+    color: #60091a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(7) {
+  background-color: #f05c79; }
+  .red li:nth-child(7):hover:before {
+    content: "#f05c79";
+    color: #750b20;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(6) {
+  background-color: #f2718b; }
+  .red li:nth-child(6):hover:before {
+    content: "#f2718b";
+    color: #8a0d26;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(5) {
+  background-color: #f4869c; }
+  .red li:nth-child(5):hover:before {
+    content: "#f4869c";
+    color: #9f0e2b;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(4) {
+  background-color: #f69bad; }
+  .red li:nth-child(4):hover:before {
+    content: "#f69bad";
+    color: #b41031;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(3) {
+  background-color: #f8b0be; }
+  .red li:nth-child(3):hover:before {
+    content: "#f8b0be";
+    color: #c91237;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(2) {
+  background-color: #fac5cf; }
+  .red li:nth-child(2):hover:before {
+    content: "#fac5cf";
+    color: #de143d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(1) {
+  background-color: #fcdae1; }
+  .red li:nth-child(1):hover:before {
+    content: "#fcdae1";
+    color: #eb1f48;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.red li:nth-child(11) {
+  background-color: #DC143C; }
+
+.orange li:nth-child(12) {
+  background-color: #e76e0c; }
+  .orange li:nth-child(12):hover:before {
+    content: "#e76e0c";
+    color: #fcdcc3;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(13) {
+  background-color: #d1640b; }
+  .orange li:nth-child(13):hover:before {
+    content: "#d1640b";
+    color: #fbd0ad;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(14) {
+  background-color: #bb590a; }
+  .orange li:nth-child(14):hover:before {
+    content: "#bb590a";
+    color: #fac397;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(15) {
+  background-color: #a54f08; }
+  .orange li:nth-child(15):hover:before {
+    content: "#a54f08";
+    color: #f9b781;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(16) {
+  background-color: #8f4507; }
+  .orange li:nth-child(16):hover:before {
+    content: "#8f4507";
+    color: #f7aa6b;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(17) {
+  background-color: #7a3a06; }
+  .orange li:nth-child(17):hover:before {
+    content: "#7a3a06";
+    color: #f69e55;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(18) {
+  background-color: #643005; }
+  .orange li:nth-child(18):hover:before {
+    content: "#643005";
+    color: #f59140;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(19) {
+  background-color: #4e2504; }
+  .orange li:nth-child(19):hover:before {
+    content: "#4e2504";
+    color: #f4852a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(20) {
+  background-color: #381b03; }
+  .orange li:nth-child(20):hover:before {
+    content: "#381b03";
+    color: #f37814;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(21) {
+  background-color: #221002; }
+  .orange li:nth-child(21):hover:before {
+    content: "#221002";
+    color: #e46d0c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(10) {
+  background-color: #f4862c; }
+  .orange li:nth-child(10):hover:before {
+    content: "#f4862c";
+    color: #502604;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(9) {
+  background-color: #f59342; }
+  .orange li:nth-child(9):hover:before {
+    content: "#f59342";
+    color: #663105;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(8) {
+  background-color: #f79f58; }
+  .orange li:nth-child(8):hover:before {
+    content: "#f79f58";
+    color: #7c3b06;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(7) {
+  background-color: #f8ac6e; }
+  .orange li:nth-child(7):hover:before {
+    content: "#f8ac6e";
+    color: #924607;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(6) {
+  background-color: #f9b884; }
+  .orange li:nth-child(6):hover:before {
+    content: "#f9b884";
+    color: #a85009;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(5) {
+  background-color: #fac599; }
+  .orange li:nth-child(5):hover:before {
+    content: "#fac599";
+    color: #be5b0a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(4) {
+  background-color: #fbd1af; }
+  .orange li:nth-child(4):hover:before {
+    content: "#fbd1af";
+    color: #d3650b;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(3) {
+  background-color: #fcdec5; }
+  .orange li:nth-child(3):hover:before {
+    content: "#fcdec5";
+    color: #e96f0c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(2) {
+  background-color: #fdeadb; }
+  .orange li:nth-child(2):hover:before {
+    content: "#fdeadb";
+    color: #f37b19;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(1) {
+  background-color: #fef7f1; }
+  .orange li:nth-child(1):hover:before {
+    content: "#fef7f1";
+    color: #f4882f;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.orange li:nth-child(11) {
+  background-color: #f37a16; }
+
+.yellow li:nth-child(12) {
+  background-color: #f3d305; }
+  .yellow li:nth-child(12):hover:before {
+    content: "#f3d305";
+    color: #fef6c6;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(13) {
+  background-color: #ddc004; }
+  .yellow li:nth-child(13):hover:before {
+    content: "#ddc004";
+    color: #fef3af;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(14) {
+  background-color: #c6ac04; }
+  .yellow li:nth-child(14):hover:before {
+    content: "#c6ac04";
+    color: #fdf099;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(15) {
+  background-color: #b09903; }
+  .yellow li:nth-child(15):hover:before {
+    content: "#b09903";
+    color: #fdec82;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(16) {
+  background-color: #998503; }
+  .yellow li:nth-child(16):hover:before {
+    content: "#998503";
+    color: #fce96c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(17) {
+  background-color: #827102; }
+  .yellow li:nth-child(17):hover:before {
+    content: "#827102";
+    color: #fce655;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(18) {
+  background-color: #6c5e02; }
+  .yellow li:nth-child(18):hover:before {
+    content: "#6c5e02";
+    color: #fbe23f;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(19) {
+  background-color: #554a02; }
+  .yellow li:nth-child(19):hover:before {
+    content: "#554a02";
+    color: #fbdf28;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(20) {
+  background-color: #3f3701; }
+  .yellow li:nth-child(20):hover:before {
+    content: "#3f3701";
+    color: #fbdb11;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(21) {
+  background-color: #282301; }
+  .yellow li:nth-child(21):hover:before {
+    content: "#282301";
+    color: #f1d104;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(10) {
+  background-color: #fbdf2b; }
+  .yellow li:nth-child(10):hover:before {
+    content: "#fbdf2b";
+    color: #584c02;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(9) {
+  background-color: #fbe341; }
+  .yellow li:nth-child(9):hover:before {
+    content: "#fbe341";
+    color: #6e6002;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(8) {
+  background-color: #fce658; }
+  .yellow li:nth-child(8):hover:before {
+    content: "#fce658";
+    color: #857402;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(7) {
+  background-color: #fce96e; }
+  .yellow li:nth-child(7):hover:before {
+    content: "#fce96e";
+    color: #9b8703;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(6) {
+  background-color: #fded85; }
+  .yellow li:nth-child(6):hover:before {
+    content: "#fded85";
+    color: #b29b03;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(5) {
+  background-color: #fdf09b; }
+  .yellow li:nth-child(5):hover:before {
+    content: "#fdf09b";
+    color: #c9ae04;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(4) {
+  background-color: #fef3b2; }
+  .yellow li:nth-child(4):hover:before {
+    content: "#fef3b2";
+    color: #dfc204;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(3) {
+  background-color: #fef7c8; }
+  .yellow li:nth-child(3):hover:before {
+    content: "#fef7c8";
+    color: #f6d505;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(2) {
+  background-color: #fefadf; }
+  .yellow li:nth-child(2):hover:before {
+    content: "#fefadf";
+    color: #fbdc16;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(1) {
+  background-color: #fffef5; }
+  .yellow li:nth-child(1):hover:before {
+    content: "#fffef5";
+    color: #fbe02d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.yellow li:nth-child(11) {
+  background-color: #fbdc14; }
+
+.green li:nth-child(12) {
+  background-color: #67b21d; }
+  .green li:nth-child(12):hover:before {
+    content: "#67b21d";
+    color: #cdf1aa;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(13) {
+  background-color: #5c9e19; }
+  .green li:nth-child(13):hover:before {
+    content: "#5c9e19";
+    color: #c2ee96;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(14) {
+  background-color: #508b16; }
+  .green li:nth-child(14):hover:before {
+    content: "#508b16";
+    color: #b6eb82;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(15) {
+  background-color: #457713; }
+  .green li:nth-child(15):hover:before {
+    content: "#457713";
+    color: #abe86e;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(16) {
+  background-color: #3a6310; }
+  .green li:nth-child(16):hover:before {
+    content: "#3a6310";
+    color: #a0e55a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(17) {
+  background-color: #2e4f0d; }
+  .green li:nth-child(17):hover:before {
+    content: "#2e4f0d";
+    color: #94e147;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(18) {
+  background-color: #233c0a; }
+  .green li:nth-child(18):hover:before {
+    content: "#233c0a";
+    color: #89de33;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(19) {
+  background-color: #172806; }
+  .green li:nth-child(19):hover:before {
+    content: "#172806";
+    color: #7dd823;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(20) {
+  background-color: #0c1403; }
+  .green li:nth-child(20):hover:before {
+    content: "#0c1403";
+    color: #72c41f;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(21) {
+  background-color: black; }
+  .green li:nth-child(21):hover:before {
+    content: "black";
+    color: #66b01c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(10) {
+  background-color: #7eda23; }
+  .green li:nth-child(10):hover:before {
+    content: "#7eda23";
+    color: #182a07;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(9) {
+  background-color: #8adf35; }
+  .green li:nth-child(9):hover:before {
+    content: "#8adf35";
+    color: #243e0a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(8) {
+  background-color: #95e249; }
+  .green li:nth-child(8):hover:before {
+    content: "#95e249";
+    color: #2f520d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(7) {
+  background-color: #a1e55d; }
+  .green li:nth-child(7):hover:before {
+    content: "#a1e55d";
+    color: #3b6510;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(6) {
+  background-color: #ace870; }
+  .green li:nth-child(6):hover:before {
+    content: "#ace870";
+    color: #467913;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(5) {
+  background-color: #b8eb84; }
+  .green li:nth-child(5):hover:before {
+    content: "#b8eb84";
+    color: #528d17;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(4) {
+  background-color: #c3ee98; }
+  .green li:nth-child(4):hover:before {
+    content: "#c3ee98";
+    color: #5da11a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(3) {
+  background-color: #cff2ac; }
+  .green li:nth-child(3):hover:before {
+    content: "#cff2ac";
+    color: #69b41d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(2) {
+  background-color: #daf5c0; }
+  .green li:nth-child(2):hover:before {
+    content: "#daf5c0";
+    color: #74c820;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(1) {
+  background-color: #e6f8d3; }
+  .green li:nth-child(1):hover:before {
+    content: "#e6f8d3";
+    color: #80dc24;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.green li:nth-child(11) {
+  background-color: #73c620; }
+
+.blue li:nth-child(12) {
+  background-color: #10a4bf; }
+  .blue li:nth-child(12):hover:before {
+    content: "#10a4bf";
+    color: #a4ebf7;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(13) {
+  background-color: #0e92a9; }
+  .blue li:nth-child(13):hover:before {
+    content: "#0e92a9";
+    color: #8ee6f5;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(14) {
+  background-color: #0d8094; }
+  .blue li:nth-child(14):hover:before {
+    content: "#0d8094";
+    color: #79e1f4;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(15) {
+  background-color: #0b6e7f; }
+  .blue li:nth-child(15):hover:before {
+    content: "#0b6e7f";
+    color: #64ddf2;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(16) {
+  background-color: #095b6a; }
+  .blue li:nth-child(16):hover:before {
+    content: "#095b6a";
+    color: #4fd8f0;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(17) {
+  background-color: #074955; }
+  .blue li:nth-child(17):hover:before {
+    content: "#074955";
+    color: #3ad3ee;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(18) {
+  background-color: #053740; }
+  .blue li:nth-child(18):hover:before {
+    content: "#053740";
+    color: #25ceec;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(19) {
+  background-color: #04252b; }
+  .blue li:nth-child(19):hover:before {
+    content: "#04252b";
+    color: #14c7e7;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(20) {
+  background-color: #021215; }
+  .blue li:nth-child(20):hover:before {
+    content: "#021215";
+    color: #12b5d1;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(21) {
+  background-color: black; }
+  .blue li:nth-child(21):hover:before {
+    content: "black";
+    color: #10a2bc;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(10) {
+  background-color: #14c9e9; }
+  .blue li:nth-child(10):hover:before {
+    content: "#14c9e9";
+    color: #04272d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(9) {
+  background-color: #27cfed; }
+  .blue li:nth-child(9):hover:before {
+    content: "#27cfed";
+    color: #063942;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(8) {
+  background-color: #3cd4ee; }
+  .blue li:nth-child(8):hover:before {
+    content: "#3cd4ee";
+    color: #074b57;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(7) {
+  background-color: #51d8f0; }
+  .blue li:nth-child(7):hover:before {
+    content: "#51d8f0";
+    color: #095e6c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(6) {
+  background-color: #67ddf2; }
+  .blue li:nth-child(6):hover:before {
+    content: "#67ddf2";
+    color: #0b7082;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(5) {
+  background-color: #7ce2f4; }
+  .blue li:nth-child(5):hover:before {
+    content: "#7ce2f4";
+    color: #0d8297;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(4) {
+  background-color: #91e7f6; }
+  .blue li:nth-child(4):hover:before {
+    content: "#91e7f6";
+    color: #0f94ac;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(3) {
+  background-color: #a6ebf7; }
+  .blue li:nth-child(3):hover:before {
+    content: "#a6ebf7";
+    color: #10a7c1;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(2) {
+  background-color: #bbf0f9; }
+  .blue li:nth-child(2):hover:before {
+    content: "#bbf0f9";
+    color: #12b9d6;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(1) {
+  background-color: #d0f5fb; }
+  .blue li:nth-child(1):hover:before {
+    content: "#d0f5fb";
+    color: #14cbeb;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.blue li:nth-child(11) {
+  background-color: #12b7d4; }
+
+.purple li:nth-child(12) {
+  background-color: #9010bf; }
+  .purple li:nth-child(12):hover:before {
+    content: "#9010bf";
+    color: #e1a4f7;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(13) {
+  background-color: #800ea9; }
+  .purple li:nth-child(13):hover:before {
+    content: "#800ea9";
+    color: #da8ef5;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(14) {
+  background-color: #700d94; }
+  .purple li:nth-child(14):hover:before {
+    content: "#700d94";
+    color: #d379f4;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(15) {
+  background-color: #600b7f; }
+  .purple li:nth-child(15):hover:before {
+    content: "#600b7f";
+    color: #cc64f2;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(16) {
+  background-color: #50096a; }
+  .purple li:nth-child(16):hover:before {
+    content: "#50096a";
+    color: #c54ff0;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(17) {
+  background-color: #400755; }
+  .purple li:nth-child(17):hover:before {
+    content: "#400755";
+    color: #be3aee;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(18) {
+  background-color: #300540; }
+  .purple li:nth-child(18):hover:before {
+    content: "#300540";
+    color: #b725ec;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(19) {
+  background-color: #20042b; }
+  .purple li:nth-child(19):hover:before {
+    content: "#20042b";
+    color: #ae14e7;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(20) {
+  background-color: #100215; }
+  .purple li:nth-child(20):hover:before {
+    content: "#100215";
+    color: #9e12d1;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(21) {
+  background-color: black; }
+  .purple li:nth-child(21):hover:before {
+    content: "black";
+    color: #8e10bc;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(10) {
+  background-color: #b014e9; }
+  .purple li:nth-child(10):hover:before {
+    content: "#b014e9";
+    color: #22042d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(9) {
+  background-color: #b827ed; }
+  .purple li:nth-child(9):hover:before {
+    content: "#b827ed";
+    color: #320642;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(8) {
+  background-color: #bf3cee; }
+  .purple li:nth-child(8):hover:before {
+    content: "#bf3cee";
+    color: #420757;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(7) {
+  background-color: #c651f0; }
+  .purple li:nth-child(7):hover:before {
+    content: "#c651f0";
+    color: #52096c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(6) {
+  background-color: #cd67f2; }
+  .purple li:nth-child(6):hover:before {
+    content: "#cd67f2";
+    color: #620b82;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(5) {
+  background-color: #d47cf4; }
+  .purple li:nth-child(5):hover:before {
+    content: "#d47cf4";
+    color: #720d97;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(4) {
+  background-color: #db91f6; }
+  .purple li:nth-child(4):hover:before {
+    content: "#db91f6";
+    color: #820fac;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(3) {
+  background-color: #e2a6f7; }
+  .purple li:nth-child(3):hover:before {
+    content: "#e2a6f7";
+    color: #9210c1;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(2) {
+  background-color: #e9bbf9; }
+  .purple li:nth-child(2):hover:before {
+    content: "#e9bbf9";
+    color: #a212d6;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(1) {
+  background-color: #f0d0fb; }
+  .purple li:nth-child(1):hover:before {
+    content: "#f0d0fb";
+    color: #b214eb;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.purple li:nth-child(11) {
+  background-color: #a012d4; }
+
+.black li:nth-child(12) {
+  background-color: #6c6c6c; }
+  .black li:nth-child(12):hover:before {
+    content: "#6c6c6c";
+    color: #d2d2d2;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(13) {
+  background-color: #606060; }
+  .black li:nth-child(13):hover:before {
+    content: "#606060";
+    color: #c6c6c6;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(14) {
+  background-color: #555555; }
+  .black li:nth-child(14):hover:before {
+    content: "#555555";
+    color: #bbbbbb;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(15) {
+  background-color: #494949; }
+  .black li:nth-child(15):hover:before {
+    content: "#494949";
+    color: #afafaf;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(16) {
+  background-color: #3e3e3e; }
+  .black li:nth-child(16):hover:before {
+    content: "#3e3e3e";
+    color: #a4a4a4;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(17) {
+  background-color: #323232; }
+  .black li:nth-child(17):hover:before {
+    content: "#323232";
+    color: #989898;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(18) {
+  background-color: #272727; }
+  .black li:nth-child(18):hover:before {
+    content: "#272727";
+    color: #8d8d8d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(19) {
+  background-color: #1b1b1b; }
+  .black li:nth-child(19):hover:before {
+    content: "#1b1b1b";
+    color: #818181;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(20) {
+  background-color: #101010; }
+  .black li:nth-child(20):hover:before {
+    content: "#101010";
+    color: #767676;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(21) {
+  background-color: #040404; }
+  .black li:nth-child(21):hover:before {
+    content: "#040404";
+    color: #6a6a6a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(10) {
+  background-color: #828282; }
+  .black li:nth-child(10):hover:before {
+    content: "#828282";
+    color: #1c1c1c;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(9) {
+  background-color: #8e8e8e; }
+  .black li:nth-child(9):hover:before {
+    content: "#8e8e8e";
+    color: #282828;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(8) {
+  background-color: #999999; }
+  .black li:nth-child(8):hover:before {
+    content: "#999999";
+    color: #333333;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(7) {
+  background-color: #a5a5a5; }
+  .black li:nth-child(7):hover:before {
+    content: "#a5a5a5";
+    color: #3f3f3f;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(6) {
+  background-color: #b0b0b0; }
+  .black li:nth-child(6):hover:before {
+    content: "#b0b0b0";
+    color: #4a4a4a;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(5) {
+  background-color: #bcbcbc; }
+  .black li:nth-child(5):hover:before {
+    content: "#bcbcbc";
+    color: #565656;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(4) {
+  background-color: #c7c7c7; }
+  .black li:nth-child(4):hover:before {
+    content: "#c7c7c7";
+    color: #616161;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(3) {
+  background-color: lightgray; }
+  .black li:nth-child(3):hover:before {
+    content: "lightgray";
+    color: #6d6d6d;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(2) {
+  background-color: #dedede; }
+  .black li:nth-child(2):hover:before {
+    content: "#dedede";
+    color: #787878;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(1) {
+  background-color: #eaeaea; }
+  .black li:nth-child(1):hover:before {
+    content: "#eaeaea";
+    color: #848484;
+    font-family: verdana;
+    font-size: 8px;
+    padding: 2px; }
+.black li:nth-child(11) {
+  background-color: #777; }
+
+/*# sourceMappingURL=style.css.map */
