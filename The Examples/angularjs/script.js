@@ -2,8 +2,8 @@ var myApp=angular.module('myapp',['ngRoute']);
 
 myApp.config(function($routeProvider){
    $routeProvider
-
-       .when('/',{
+       
+       .when('/home',{
        	  templateUrl:'pages/home.html',
        	  controller:'mainController'
        })
@@ -15,6 +15,9 @@ myApp.config(function($routeProvider){
        	  templateUrl:'pages/contact.html',
        	  controller:'contactController'
        })
+       .otherwise({
+            redirectTo: '/home'
+          })
 
 });
 myApp.controller('mainController',function($scope){
