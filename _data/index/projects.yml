@@ -15,9 +15,9 @@
   img: /static/assets/img/landing/logo_ai.ico
   desc: 实习公司产品web端,本人参与其中一些模块，该项目通过Jquery,HTML,CSS实现;
 
-- name: 智教云 智慧校园微信端端
+- name: 智教云 智慧校园微信端(海南智教云公众号)
   i18n: leetcode
   gh_user: kamyu104
-  repo: 智教云 智慧校园微信端端
+  repo: 智教云 智慧校园微信端
   img: /static/assets/img/landing/login.jpg
   desc: 实习公司产品微信端,该项目是基于微信公众号开发的产品,通过Angularjs,HTML,CSS实现;
