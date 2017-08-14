@@ -6,7 +6,7 @@
   gh_user: jarrekk
   repo: 武钢智能管道系统
   img: /static/assets/img/landing/wugang.png
-  desc: 主导界面设计，采用基本HTML、CSS3技术完成界面开发，在.Net平台上对地理信息系统skyline进行二次开发，采用 MVC框架，前后端开发并存。
+  desc: 主导界面设计，采用基本Jqeury、HTML、CSS3技术完成界面开发，在通过Javascript对对地理信息系统skyline进行二次开发，采用 MVC框架，前后端开发并存。
 
 - name: 智教云 智慧校园Web端
   i18n: leetcode
