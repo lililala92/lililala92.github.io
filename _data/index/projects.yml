@@ -8,16 +8,16 @@
   img: /static/assets/img/landing/wugang.png
   desc: 主导界面设计，采用基本HTML、CSS3技术完成界面开发，在.Net平台上对地理信息系统skyline进行二次开发，采用 MVC框架，前后端开发并存。
 
-- name: jxtest.0898zlb.com/smartschoolweb/html/module/desktop/teacher.html
+- name: 智教云 智慧校园Web端
   i18n: leetcode
   gh_user: kamyu104
-  repo: 
+  repo: jxtest.0898zlb.com/smartschoolweb/html/module/desktop/teacher.html
   img: /static/assets/img/landing/logo_ai.ico
   desc: 实习公司产品web端,本人参与其中一些模块，该项目通过Jquery,HTML,CSS实现;
 
 - name: 智教云 智慧校园微信端端
   i18n: leetcode
   gh_user: kamyu104
-  repo: 
+  repo: 智教云 智慧校园微信端端
   img: /static/assets/img/landing/login.jpg
   desc: 实习公司产品微信端,该项目是基于微信公众号开发的产品,通过Angularjs,HTML,CSS实现;
