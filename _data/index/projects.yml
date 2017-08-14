@@ -11,7 +11,7 @@
 - name: 智教云 智慧校园Web端
   i18n: leetcode
   gh_user: kamyu104
-  repo: jxtest.0898zlb.com/smartschoolweb/html/module/desktop/teacher.html
+  repo: http://jxtest.0898zlb.com/smartschoolweb/html/module/desktop/teacher.html
   img: /static/assets/img/landing/logo_ai.ico
   desc: 实习公司产品web端,本人参与其中一些模块，该项目通过Jquery,HTML,CSS实现;
 
